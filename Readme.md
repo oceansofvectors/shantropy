@@ -1,6 +1,6 @@
 # shantropy
 
-![example workflow](https://github.com/oceansofvectors/shantropy/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/oceansofvectors/shantropy/actions/workflows/go.yml/badge.svg)
 
 This project provides a command-line utility for finding substrings with high Shannon entropy in the contents of files in a directory.
 
