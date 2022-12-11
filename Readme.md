@@ -9,7 +9,7 @@ To install the utility, clone the repository and run go install:
 ```
 $ git clone https://github.com/shantropy
 $ cd shantropy
-$ go install
+$ go build
 ```
 
 ## Usage
